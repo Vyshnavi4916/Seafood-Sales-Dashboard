@@ -48,6 +48,6 @@ The dataset includes the following columns:
 
 To use the dashboard:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/seafood-sales-dashboard.git
+1. Clone this repository.
+2. Open the Tableau workbook using Tableau Desktop.
+3. Explore the interactive visualizations by selecting different products and years.
